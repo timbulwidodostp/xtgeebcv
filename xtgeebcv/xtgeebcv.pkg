@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtgeebcv': Computes bias-corrected (small-sample) standard errors for generalized estimating equations Use xtgeebcv With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtgeebcv.ado
+f xtgeebcv.sthlp
